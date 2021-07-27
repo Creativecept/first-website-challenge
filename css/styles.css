@@ -1,0 +1,15 @@
+.MTN {
+  background-color: yellow;
+}
+
+img:hover {
+  background-color: red;
+}
+
+a:hover {
+  color: blue;
+}
+
+#heading {
+  color: red;
+}
